@@ -40,7 +40,7 @@ $git clone https://github.com/junyii37/dl-pj1.git
 
 由于预训练模型较小，故已经放在 `saved_models/best_model` 文件夹中。如若需要，可以从 https://drive.google.com/file/d/1AMRUhEXBbhZ8ilb7YllgxNLihNBSQJjK/view?usp=sharing 下载预训练模型参数，并将其放在上述文件夹中，位置如前所示。
 
-
+虽然代码在运行过程中会自动下载数据集，但如若需要，可以从 https://drive.google.com/file/d/1ITfA8eHALG3yxvHIvCzHZ97Gn_DvEx3r/view?usp=sharing 下载数据集，并将解压后的文件放在 `dataset` 文件夹中，位置如前所示。
 
 ## 3. Train
 

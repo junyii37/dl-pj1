@@ -35,10 +35,10 @@ dl-pj1/
 首先需要将模型代码下载到本地：（$ 表示命令行提示符，复制时可忽略此符号）
 
 ```
-$https://github.com/junyii37/dl-pj1.git
+$git clone https://github.com/junyii37/dl-pj1.git
 ```
 
-再从 https://drive.google.com/file/d/1AMRUhEXBbhZ8ilb7YllgxNLihNBSQJjK/view?usp=sharing 下载预训练模型参数，并将其放在 `saved_models/best_model` 文件夹中，位置如前所示。
+由于预训练模型较小，故已经放在 `saved_models/best_model` 文件夹中。如若需要，可以从 https://drive.google.com/file/d/1AMRUhEXBbhZ8ilb7YllgxNLihNBSQJjK/view?usp=sharing 下载预训练模型参数，并将其放在上述文件夹中，位置如前所示。
 
 
 
